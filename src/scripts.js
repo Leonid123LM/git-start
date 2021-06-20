@@ -1,4 +1,4 @@
-h1 {
-    font-weight: normal;
-    color: red;
-}
+$ (function() {
+    console.log("YES");
+    let data = $('#data').val();
+})
